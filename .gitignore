@@ -1,0 +1,6 @@
+.godot/
+.vscode/
+*.tmp
+.todo
+
+addons/wdebugger/wdebugger_core.gd
