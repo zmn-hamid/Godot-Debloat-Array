@@ -1,6 +1,6 @@
 # [Beta] Debloat Exported Arrays Addon for Godot
 
-![screenshot1](https://github.com/user-attachments/assets/1c2b023e-4944-4542-9df8-dc8baff54af0)
+![screenshot1](https://github.com/user-attachments/assets/f8e02ba7-019c-42c8-bbda-b2a67a15a99a)
 
 This plugin debloats the exported Arrays by removing the `Size:` and `> Resource` fields and
 updating the UX. This is a beta version because the method used to achieve this relies on the UI system defined for each version. So this addon might not work for other versions of Godot. This is a follow up of this issue: godotengine/godot#106576
