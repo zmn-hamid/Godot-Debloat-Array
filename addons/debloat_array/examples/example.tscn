@@ -1,4 +1,4 @@
-[gd_scene load_steps=6 format=3 uid="uid://c0f2xfax8rumw"]
+[gd_scene load_steps=7 format=3 uid="uid://c0f2xfax8rumw"]
 
 [ext_resource type="Script" uid="uid://d34dxwn7ypyw5" path="res://addons/debloat_array/examples/example.gd" id="1_advy3"]
 [ext_resource type="Script" uid="uid://ymfqimpd5oq0" path="res://addons/debloat_array/examples/ExampleResource.gd" id="2_kd31v"]
@@ -9,9 +9,14 @@ script = ExtResource("3_rpyj6")
 item = 0
 metadata/_custom_type_script = "uid://csw72xaw1qm8y"
 
+[sub_resource type="Resource" id="Resource_rpyj6"]
+script = ExtResource("3_rpyj6")
+item = 0
+metadata/_custom_type_script = "uid://csw72xaw1qm8y"
+
 [sub_resource type="Resource" id="Resource_kd31v"]
 script = ExtResource("2_kd31v")
-nested_resource_arr = Array[ExtResource("3_rpyj6")]([SubResource("Resource_advy3")])
+nested_resource_arr = Array[ExtResource("3_rpyj6")]([SubResource("Resource_advy3"), SubResource("Resource_rpyj6")])
 metadata/_custom_type_script = "uid://ymfqimpd5oq0"
 
 [node name="Main" type="Node2D"]
