@@ -26,6 +26,10 @@ This way only the necessary fields are bold, and the other buttons are in fact, 
 2. Reload the project: Project > Reload Current Project
 3. Now you're good to go. check the example scene to see the results.
 
+## How To Customize
+
+You can change the styleboxes in `addons/debloat_array/styles/` to customize your experience.
+
 ## Attribution
 
 Thanks to (kleonc)[https://github.com/kleonc], memeber of Godot who wrote the core of this addon. I added the styling
