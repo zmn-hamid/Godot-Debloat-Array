@@ -28,7 +28,9 @@ This way only the necessary fields are bold, and the other buttons are in fact, 
 
 ## How To Customize
 
-You can change the styleboxes in `addons/debloat_array/styles/` to customize your experience.
+- You can change the `process_` variables in the beginning of [debloat_array_inspector.gd file](addons/debloat_array/debloat_array_inspector.gd) to turn off/on one of the features of this plugin.
+- You can change the styleboxes in `addons/debloat_array/styles/` to customize the looks.
+
 
 ## Attribution
 
