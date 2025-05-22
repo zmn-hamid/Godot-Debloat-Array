@@ -1,4 +1,4 @@
-# [Pre-Stable Version] Debloat Exported Arrays Addon for Godot
+# [Beta Version] Debloat Exported Arrays Addon for Godot
 
 ![screenshot1](https://github.com/user-attachments/assets/f8e02ba7-019c-42c8-bbda-b2a67a15a99a)
 
