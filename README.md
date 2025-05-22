@@ -33,4 +33,4 @@ updating the UX. This is a follow up of this issue: godotengine/godot#106576
 
 ## Attribution
 
-Thanks to (kleonc)[https://github.com/kleonc], memeber of Godot who wrote the core of this addon
+Thanks to [kleonc](https://github.com/kleonc), memeber of Godot who wrote the core of this addon
